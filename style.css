@@ -5,7 +5,7 @@ body{
 }
 
 .sinistra{
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 /*header*/
@@ -43,4 +43,20 @@ h1{
 
 #dimensione{
     font-size: small;
+}
+
+/*section prima*/
+
+.testo{
+    padding-top: 20px;
+    
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+#allineamento{
+
+    padding-left: 15px;
 }
