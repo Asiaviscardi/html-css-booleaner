@@ -4,6 +4,10 @@ body{
     position: relative;
 }
 
+.sinistra{
+    margin-left: 10px;
+}
+
 /*header*/
 
 #sfondo{
@@ -19,4 +23,24 @@ body{
     position: absolute;
     left: 1%;
     bottom: 5%;
+    display: none;
+}
+
+/*main*/
+
+h1{
+    margin-bottom: 0%;
+}
+
+.grigio{
+    color: gray;
+    padding-bottom: 7px;
+}
+
+#blu{
+    color: rgb(0, 167, 223);
+}
+
+#dimensione{
+    font-size: small;
 }
