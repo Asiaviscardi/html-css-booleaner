@@ -1,7 +1,6 @@
 body{
     margin: 0%;
     padding: 0%;
-    position: relative;
 }
 
 .sinistra{
@@ -16,6 +15,7 @@ body{
     background-color: rgb(0, 168, 224);
     background-image: url(img/pattern.png);
     background-size: 30%;
+    position: relative;
 }
 
 #logo{
@@ -23,7 +23,7 @@ body{
     position: absolute;
     left: 1%;
     bottom: 5%;
-    display: none;
+    
 }
 
 /*main*/
@@ -57,6 +57,40 @@ h1{
 }
 
 #allineamento{
-
     padding-left: 15px;
 }
+
+/*section seconda*/
+
+.top-container{
+    height: 20px;
+    background-color: rgb(39, 170, 214);
+    color:white;
+    width:100%;
+    position:relative;  
+  }
+  
+  .title{
+    height:90px;
+    display: inline-block;
+    max-width: 400px;
+  }
+  
+  
+  .margin{
+    margin-left:250px;
+  }
+  
+  .container{
+    height: 60px;
+    width:100%;
+    color: black;
+  }
+  
+  .bg-lightblue{
+    background-color: rgb(161, 230, 253) ;
+  }
+
+  .destra{
+    margin-right: 20px;
+  }
