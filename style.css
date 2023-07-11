@@ -94,3 +94,20 @@ h1{
   .destra{
     margin-right: 20px;
   }
+
+  /*footer*/
+
+  .staccato{
+    padding-top: 50px;
+  }
+
+  .immagine{
+
+    width: 250px;
+    position: relative;
+    
+  }
+
+  .ultima{
+    padding-top: 10px;
+  }
